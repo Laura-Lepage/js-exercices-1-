@@ -34,3 +34,13 @@ button.addEventListener('click', function(){
         })     
     })    
 })
+
+// function addTask(qui, quoi, combien){
+//     let newTask = { //creation objet
+//         name : qui, // name: = une clé
+//         quantite : combien,
+//         marchandise : quoi
+//     }
+//     tableau.push(newTask)
+//     product.value = ""
+// }
